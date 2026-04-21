@@ -1,4 +1,4 @@
-baseURL = baseURL = 'https://amakulska.github.io/'
+baseURL = 'https://amakulska.github.io/'
 languageCode = 'en-us'
 title = 'Agnieszka Makulska'
 theme = "PaperMod"
